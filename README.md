@@ -1,4 +1,3 @@
-
 ## PaymaanKazemi(p.k)
 Hi! I am P.K; A tired guitarist and developer contractor;I regard curiosity as my super power along with creativity and communication.I gain energy from coding and collaborating with others, fellow developers and users alike.
 
@@ -15,5 +14,12 @@ Twitter: @karlos94pk
 
 Telegram: @rails_developer
 
-Linkedin: paymaan-kazemi
+linkedin: paymaan-kazemi
+
+
+## 🚀 About Me
+80% of my time as a Ruby and Clojure consultant (currently 60%)
+20% of my time on open source (currently 40%)
+
+
 
