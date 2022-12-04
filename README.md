@@ -4,7 +4,8 @@ Hi! I am P.K; A tired guitarist and developer contractor;I regard curiosity as m
 
 
 
-Clojure and Ruby quite literally changed my life.Somehow I use these languages ​​in my life.My acquaintance with clojure started through emacs;I suggest you to use emacs.![Logo](http://www.emacswiki.org/pics/official%20gnu.svg)
+Clojure and Ruby quite literally changed my life.Somehow I use these languages ​​in my life.My acquaintance with clojure started through emacs;I suggest you to use emacs.
+![Logo](http://www.emacswiki.org/pics/official%20gnu.svg)
 
 
 ## Follow me (it makes me happy!)
@@ -13,5 +14,5 @@ Twitter: @karlos94pk
 
 Telegram: @rails_developer
 
-linkedin: paymaan-kazemi
+Linkedin: paymaan-kazemi
 
