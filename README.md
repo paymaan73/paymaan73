@@ -19,6 +19,7 @@ linkedin: paymaan-kazemi
 
 ## 🚀 About Me
 80% of my time as a Ruby and Clojure consultant (currently 60%)
+
 20% of my time on open source (currently 40%)
 
 
