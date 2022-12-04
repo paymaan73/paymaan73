@@ -12,7 +12,7 @@ Clojure and Ruby quite literally changed my life.Somehow I use these languages â
 
 Twitter: @karlos94pk
 
-Telegram: @rails_developer
+Telegram: @railsdeveloper
 
 linkedin: paymaan-kazemi
 
