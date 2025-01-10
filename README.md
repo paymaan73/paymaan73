@@ -1,26 +1,9 @@
-## PaymaanKazemi(p.k)
-Hi! I am P.K; A tired guitarist and developer contractor;I regard curiosity as my super power along with creativity and communication.I gain energy from coding and collaborating with others, fellow developers and users alike.
+## About Me
 
+I started programming in 2018 due to my interest in software development. My journey began with Ruby, where I wrote scripts for web scraping. 
 
+After a while, I transitioned to using the Ruby on Rails framework and worked as a web developer with it for three years. Based on company needs, I became familiar with Node.js, and for the past two years, I have been developing with Node.js and Express, which has been a great experience.
 
-Clojure and Ruby quite literally changed my life.Somehow I use these languages ​​in my life.My acquaintance with clojure started through emacs;I suggest you to use emacs.
+In addition to being a web developer, I have also worked on app servers written in C++. For instance, I developed a file server that reads CSV files and sends the data through a socket to an Express application.
 
-![Logo](http://www.emacswiki.org/pics/official%20gnu.svg)
-
-
-## Follow me (it makes me happy!)
-
-Twitter: @karlos94pk
-
-Telegram: @railsdeveloper
-
-linkedin: paymaan-kazemi
-
-
-## 🚀 Employment
-80% of my time as a Ruby and Clojure consultant (currently 60%)
-
-20% of my time on open source (currently 40%)
-
-
-
+Beyond software, I have a strong passion for sports, music, and history.
