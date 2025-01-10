@@ -6,4 +6,16 @@ After a while, I transitioned to using the Ruby on Rails framework and worked as
 
 In addition to being a web developer, I have also worked on app servers written in C++. For instance, I developed a file server that reads CSV files and sends the data through a socket to an Express application.
 
+### Technologies and Tools I've Worked With
+
+Over the years, I have gained experience with the following technologies and tools:
+
+- **Operating Systems:** Linux (Ubuntu/RedHat) for virtualization and building email servers.
+- **Containerization & Orchestration:** Docker for deploying projects and Kubernetes for clustering microservices.
+- **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Cassandra, and MongoDB.
+- **Programming Languages:**  
+  - Ruby and JavaScript (for web applications).  
+  - Clojure (for web applications).  
+  - C++ (for app servers).  
+
 Beyond software, I have a strong passion for sports, music, and history.
