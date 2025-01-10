@@ -1,6 +1,6 @@
 ## About Me
 
-![My Photo](path/to/your/photo.jpg)
+![My Photo](https://avatars.githubusercontent.com/paymaan73)
 
 I started programming in 2018 due to my interest in software development. My journey began with Ruby, where I wrote scripts for web scraping. 
 
