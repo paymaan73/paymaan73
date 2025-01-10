@@ -1,7 +1,6 @@
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/paymaan73" alt="My Photo" width="60" height="60" style="border-radius: 90;">
-
+<img src="https://avatars.githubusercontent.com/paymaan73" alt="My Photo" width="150" height="150" style="border-radius: 50%;">
 
 I started programming in 2018 due to my interest in software development. My journey began with Ruby, where I wrote scripts for web scraping. 
 
@@ -16,6 +15,7 @@ Over the years, I have gained experience with the following technologies and too
 - **Operating Systems:** Linux (Ubuntu/RedHat) for virtualization and building email servers.
 - **Containerization & Orchestration:** Docker for deploying projects and Kubernetes for clustering microservices.
 - **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Cassandra, and MongoDB.
+- **Message Queues:** Kafka for microservices and message queues, RabbitMQ for message broker systems.
 - **Programming Languages:**  
   - Ruby and JavaScript (for web applications).  
   - Clojure (for web applications).  
@@ -26,4 +26,4 @@ Beyond software, I have a strong passion for sports, music, and history.
 ### Contact Me
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/paymaan-kazemi-610458204/)  
-- **Email:** [paymankazemipymkz@gmail.com](paymankazemipymkz@gmail.com)
+- **Email:** [paymankazemipymkz@gmail.com](mailto:your.email@example.com)
