@@ -25,4 +25,4 @@ Beyond software, I have a strong passion for sports, music, and history.
 ### Contact Me
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/paymaan-kazemi-610458204/)  
-- **Email:** [your.email@example.com](paymankazemipymkz@gmail.com)
+- **Email:** [paymankazemipymkz@gmail.com](paymankazemipymkz@gmail.com)
