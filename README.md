@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/paymaan73" alt="My Photo" width="150" height="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/paymaan73" alt="My Photo" width="150" height="150" style="border-radius: 90%;">
 
 
 I started programming in 2018 due to my interest in software development. My journey began with Ruby, where I wrote scripts for web scraping. 
