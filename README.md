@@ -21,3 +21,8 @@ Over the years, I have gained experience with the following technologies and too
   - C++ (for app servers).  
 
 Beyond software, I have a strong passion for sports, music, and history.
+
+### Contact Me
+
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)  
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
