@@ -16,6 +16,7 @@ Over the years, I have gained experience with the following technologies and too
 - **Containerization & Orchestration:** Docker for deploying projects and Kubernetes for clustering microservices.
 - **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Cassandra, and MongoDB.
 - **Message Queues:** Kafka for microservices and message queues, RabbitMQ for message broker systems.
+- **Software Architectures:** Clean Architecture, MVC (Model-View-Controller), SOA (Service-Oriented Architecture).
 - **Programming Languages:**  
   - Ruby and JavaScript (for web applications).  
   - Clojure (for web applications).  
